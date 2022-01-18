@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, Chess and Soccer Enthusiast 😄
 
 ### 🎵 Currently in my ears
-[![Spotify](https://spotify-braniq.herokuapp.com/)](https://open.spotify.com/user/MateasBranislav)
+![Spotify](https://braniq-spotify.vercel.app/api/spotify/?background_color=0D1117&border_color=222D3D)
 
 # 🥅 2022 Goals:
 
