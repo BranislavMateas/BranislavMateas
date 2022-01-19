@@ -36,11 +36,3 @@
 ---
 
 [![Braniq's GitHub stats](https://github-readme-stats.vercel.app/api?username=BranislavMateas&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  
-</details>
