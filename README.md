@@ -1,6 +1,5 @@
 ### Hi there, I'm Branislav - aka Braniq 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MateasBranislav)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branislav-mate%C3%A1%C5%A1-519bb6215/)
 
 ## I'm a Student, Developer, Chess and Soccer Enthusiast 😄
