@@ -7,12 +7,6 @@
 ### 🎵 Currently in my ears
 ![Spotify](https://braniq-spotify.vercel.app/api/spotify/?background_color=0D1117&border_color=222D3D)
 
-# 🥅 2023 Goals:
-
--   💻 Get accepted to higher-ranked software-related university
--   🌱 Improve mainly my skills in Flutter and successfully finish high school
--   ✔️ Finish some of my older projects (still from 2022 😁)
-
 ---
 ## ⚡Fun fact about me: I started "programming" HTML in Windows XP's Notepad.
 ---
