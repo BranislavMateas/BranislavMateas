@@ -1,7 +1,6 @@
 ### Hi there, I'm Branislav - aka Braniq 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branislav-mateas/)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BranikMateas)
 
 ## I'm a Student, Flutter Developer, Chess, Volleyball, Coffee and Football Enthusiast 😄
 
