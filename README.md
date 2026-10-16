@@ -4,9 +4,6 @@
 
 ## I'm a Student, Flutter Developer, Chess, Volleyball, Coffee and Football Enthusiast 😄
 
-### 🎵 Currently in my ears
-![Spotify](https://braniq-spotify.vercel.app/api/spotify/?background_color=0D1117&border_color=222D3D)
-
 ---
 ## ⚡Fun fact about me: I started "programming" HTML in Windows XP's Notepad.
 ---
