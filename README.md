@@ -6,7 +6,7 @@
 
 ## Current Projects
 
-- 📎 **[Proofclip](https://github.com/BranislavMateas/proofclip)** — Save web pages to Notion, preview and edit each clip, and verify the saved blocks. Free and open source.
+- 📎 **[Proofclip](https://github.com/BranislavMateas/proofclip)**: Save web pages to Notion, preview and edit each clip, and verify the saved blocks. Free and open source.
 
 ---
 ## ⚡Fun fact about me: I started "programming" HTML in Windows XP's Notepad.
