@@ -7,6 +7,7 @@
 ## Current Projects
 
 - 📎 **[Proofclip](https://github.com/BranislavMateas/proofclip)**: Save web pages to Notion, preview and edit each clip, and verify the saved blocks. Free and open source.
+- 📊 **[Web Analytics Benchmark](https://github.com/BranislavMateas/web-analytics-benchmark)**: Synthetic web analytics debugging tasks with objective grading, for measuring how well AI agents diagnose and fix tracking issues.
 
 ---
 ## ⚡Fun fact about me: I started "programming" HTML in Windows XP's Notepad.
